@@ -308,4 +308,13 @@ let t = parseFloat(prompt("Enter a number for the second width"));
 let ans = area(s);
 console.log( " The answer is"+ ans);
 
+// Arrow function
+// Arrow function is more like a shorthand form of functions
+let welcome = () => console.log("Hello World!")
+welcome();
+
+// arrow functions have limited usage
+const lang = [ "Python", "C++", "JS", "C#", "Go"]
+console.log (lang.map(lang => lang.length));
+
 
