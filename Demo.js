@@ -317,4 +317,25 @@ welcome();
 const lang = [ "Python", "C++", "JS", "C#", "Go"]
 console.log (lang.map(lang => lang.length));
 
+// JS Objects
+// Definition
+//Creation
+// // using an object literal.
+// // using the keyword new Object()
+// // using constructor
+// // using Object.create().
 
+// Accesssing Objects
+// // Using Dot notation
+// // Using key name
+
+// methods
+// Definition
+// Creating your own methods
+// Some common methods in JS
+
+
+// Assignment: write out the differences(>=5)
+//between objects and arrays
+//To be submitted by 8:55am tomorrow morning
+//copied texts will be rejected
